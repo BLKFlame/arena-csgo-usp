@@ -1,2 +1,2 @@
-# expert-octo-sniffle
+# Arena-CSGO-USP
 Addons CSGO Arena USP
